@@ -32,7 +32,9 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## Output:
-![image](https://github.com/KrishnaPrasad148/Circulate-the-values-of-N-variables/assets/147332763/5c64af3e-41f8-4fac-9f5a-f9e79711b9b9)
+![Screenshot 2024-05-08 042248](https://github.com/KrishnaPrasad148/Circulate-the-values-of-N-variables/assets/147332763/380ead3e-af29-4387-990c-10c36874bb78)
+
+![Screenshot 2024-05-08 042305](https://github.com/KrishnaPrasad148/Circulate-the-values-of-N-variables/assets/147332763/d65a22ce-9342-48f1-98d9-1cc30af82067)
 
 
 ## Result:
